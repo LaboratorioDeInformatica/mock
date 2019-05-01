@@ -1,0 +1,18 @@
+package br.com.caelum.leilao.servico;
+
+import org.junit.Test;
+import static org.mockito.Mockito.mock;
+
+import br.com.caelum.leilao.infra.dao.RepositorioDeLeiloes;
+import br.com.caelum.leilao.infra.dao.RepositorioDePagamentos;
+
+public class GeradorDePagamentotest {
+
+	@Test
+	public void deveGerarPagamentoParaUmLeilaoEncerrado() {
+		
+		RepositorioDeLeiloes leiloes = mock(RepositorioDeLeiloes.class);
+		RepositorioDePagamentos pagamentos = mock(RepositorioDePagamentos.class);
+		Avaliador avaliador = mock(Avaliador.class);
+	}
+}

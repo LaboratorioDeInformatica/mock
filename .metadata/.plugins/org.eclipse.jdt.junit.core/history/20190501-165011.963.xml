@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="GeradorDePagamentotest" project="teste-de-unidade" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="br.com.caelum.leilao.servico.GeradorDePagamentotest" time="0.139">
+    <testcase name="deveEmpurrarParaOProximoDiaUtil" classname="br.com.caelum.leilao.servico.GeradorDePagamentotest" time="0.136"/>
+    <testcase name="deveGerarPagamentoParaUmLeilaoEncerrado" classname="br.com.caelum.leilao.servico.GeradorDePagamentotest" time="0.003"/>
+  </testsuite>
+</testrun>

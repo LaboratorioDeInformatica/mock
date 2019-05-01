@@ -1,0 +1,6 @@
+package br.com.caelum.leilao.infra.relogio;
+
+public interface Relogio {
+
+	Calendar hoje;
+}

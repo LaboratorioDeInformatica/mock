@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="br.com.caelum.leilao.servico.EncerradorDeLeilao"/>
+<fullyQualifiedTypeName name="br.com.caelum.leilao.infra.dao.LeilaoDao"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="br.com.caelum.leilao.infra.dao.EnviadorDeEmail"/>
+<fullyQualifiedTypeName name="br.com.caelum.leilao.infra.dao.Carteiro"/>
+<fullyQualifiedTypeName name="br.com.caelum.leilao.infra.email.Carteiro"/>
+<fullyQualifiedTypeName name="br.com.caelum.leilao.builder.CriadorDeLeilao"/>
+<fullyQualifiedTypeName name="br.com.caelum.leilao.infra.dao.RepositorioDeLeiloes"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+</qualifiedTypeNameHistroy>
